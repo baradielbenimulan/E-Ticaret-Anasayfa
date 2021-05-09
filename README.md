@@ -1,7 +1,6 @@
 ## About The Project
 
 ![](ansayfa.png)
-![](device.gif)
 
 ### Built With
 
