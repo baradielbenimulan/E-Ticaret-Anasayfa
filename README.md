@@ -1,6 +1,7 @@
 ## About The Project
 
-![](ansayfa.png)
+![](anasayfa.gif)
+
 
 ### Built With
 
